@@ -1,0 +1,8 @@
+/*
+ npm i -D tailwindcss postcss autoprefixer
+ npx tailwindcss init -p  -> iniciar arquivo tailwind
+
+ instalar extensão do postcss e tailwind no vscode
+
+ 
+*/
